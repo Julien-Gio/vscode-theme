@@ -169,7 +169,7 @@
     },
     {
       "scope": "entity.other.attribute-name",
-      "settings": { "foreground": "#80c0ff" }
+      "settings": { "foreground": "#92beff" }
     },
     {
       "scope": [
@@ -231,7 +231,7 @@
     },
     {
       "scope": "meta.structure.dictionary.key.python",
-      "settings": { "foreground": "#80c0ff" }
+      "settings": { "foreground": "#92beff" }
     },
     { "scope": "meta.diff.header", "settings": { "foreground": "#569cd6" } },
     {
@@ -357,7 +357,7 @@
         "source.css variable",
         "source.coffee.embedded"
       ],
-      "settings": { "foreground": "#80c0ff" }
+      "settings": { "foreground": "#92beff" }
     },
     {
       "scope": [
@@ -429,7 +429,7 @@
     { "scope": "entity.name.label", "settings": { "foreground": "#C8C8C8" } },
     {
       "scope": "support.function.git-rebase",
-      "settings": { "foreground": "#80c0ff" }
+      "settings": { "foreground": "#92beff" }
     },
     {
       "scope": "constant.sha.git-rebase",
@@ -442,7 +442,7 @@
     "stringLiteral": "#ce9178",
     "customLiteral": "#DCDCAA",
     "numberLiteral": "#b5cea8",
-    "property.declaration": "#80c0ff",
+    "property.declaration": "#92beff",
     "method.declaration": { "foreground": "#e9b983", "fontStyle": "bold" },
     "function.declaration": { "foreground": "#e9b983", "fontStyle": "bold" },
     "function.declaration.local": { "foreground": "#e9b983", "fontStyle": "" },
