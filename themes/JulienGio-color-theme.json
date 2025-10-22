@@ -443,7 +443,8 @@
     "customLiteral": "#DCDCAA",
     "numberLiteral": "#b5cea8",
     "property.declaration": "#80c0ff",
-    "method.declaration": "#e6af70",
-    "function.declaration": "#e0a561",
+    "method.declaration": { "foreground": "#e9b983", "fontStyle": "bold" },
+    "function.declaration": { "foreground": "#e9b983", "fontStyle": "bold" },
+    "function.declaration.local": { "foreground": "#e9b983", "fontStyle": "" },
   }
 }
