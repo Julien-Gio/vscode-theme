@@ -1,0 +1,21 @@
+{
+  "name": "juliengio-theme",
+  "displayName": "juliengio-theme",
+  "description": "Julien Gio's Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JulienGio's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JulienGio-color-theme.json"
+      }
+    ]
+  }
+}
