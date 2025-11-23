@@ -4,7 +4,7 @@
 
 ## Install this color theme to VSCode
 
-Copy `themes/JulienGio-color-theme.json` into the `<user home>/.vscode/extensions` or `%localappdata%\Programs\Microsoft VS Code\resources\app\extensions` folder and restart Code.
+Copy this folder into the `<user home>/.vscode/extensions` or `%localappdata%\Programs\Microsoft VS Code\resources\app\extensions` folder and restart Code.
 
 
 ## Editing theme
