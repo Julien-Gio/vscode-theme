@@ -1,12 +1,13 @@
-# Welcome to your VS Code Extension
-
-## What's in the folder
-
-* This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/JulienGio&#39;s theme-color-theme.json` - the color theme definition file.
+* `themes/JulienGio-color-theme.json` - the color theme definition file.
 
-## Get up and running straight away
+
+## Install this color theme to VSCode
+
+Copy `themes/JulienGio-color-theme.json` into the `<user home>/.vscode/extensions` or `%localappdata%\Programs\Microsoft VS Code\resources\app\extensions` folder and restart Code.
+
+
+## Editing theme
 
 * Press `F5` to open a new window with your extension loaded.
 * Open the color theme picker with  the `File > Preferences > Theme > Color Theme` menu item, or use the `Preferences: Color Theme command (Ctrl+K Ctrl+T)` and pick your theme
@@ -21,8 +22,3 @@
 * The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
 
 To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
-
-## Install your extension
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` or `%localappdata%\Programs\Microsoft VS Code\resources\app\extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/api/working-with-extensions/publishing-extension about publishing an extension.
